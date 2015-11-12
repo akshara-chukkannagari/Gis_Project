@@ -1,0 +1,4 @@
+http://quader.igg.tu-berlin.de/istsos/test?service=SOS&request=GetObservation&offering=temporary&procedure=Node_383&observedProperty=acceleration-x,acceleration-y,acceleration-z,air:temperature&responseFormat=text/plain&version=1.0.0&eventTime=2015-03-26T13:16:01.006750000+0100/2015-03-26T14:56:50.506750+0100
+
+
+http://quader.igg.tu-berlin.de/istsos/bridgedemoservice?service=SOS&request=GetObservation&offering=temporary&procedure=Node_383&observedProperty=acceleration-x,acceleration-y,acceleration-z,air:temperature&responseFormat=text/plain&version=1.0.0&eventTime=2014-11-24T10:51:31+0100/2014-11-24T14:56:50.506750+0100
